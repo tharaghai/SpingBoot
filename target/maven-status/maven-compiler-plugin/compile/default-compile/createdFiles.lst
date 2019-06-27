@@ -1,0 +1,5 @@
+com\auxolabs\springbootrestapiexample\model\Employee.class
+com\auxolabs\springbootrestapiexample\dao\EmployeeDAO.class
+com\auxolabs\springbootrestapiexample\EmployeeApplication.class
+com\auxolabs\springbootrestapiexample\repository\EmployeeRepository.class
+com\auxolabs\springbootrestapiexample\controller\EmployeeController.class
